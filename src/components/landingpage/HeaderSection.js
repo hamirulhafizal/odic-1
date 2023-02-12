@@ -80,7 +80,7 @@ const HeaderSection = () => {
               >
                 <Stack spacing={1}>
                   <Typography textAlign={{ xs: 'center', md: 'left' }} variant="h1" sx={headerSX}>
-                    Use Berry to Power Your Next
+                    Use Berry to Power Your Next 1
                   </Typography>
                   <Typography textAlign={{ xs: 'center', md: 'left' }} variant="h1" color="primary" sx={headerSX}>
                     React Project
